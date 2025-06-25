@@ -1,0 +1,12 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "main": "filemanagement.js",
+  "scripts": {
+    "start": "nodemon filemanagement.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
